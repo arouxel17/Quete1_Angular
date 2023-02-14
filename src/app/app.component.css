@@ -1,0 +1,9 @@
+.espace{
+    height: 40rem;
+  }
+
+  .blocs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
